@@ -36,8 +36,8 @@ const items = [
     icon: Search,
   },
   {
-    title: "Settings",
-    url: "#",
+    title: "Regras de Negócios",
+    url: "./regras-de-negocios",
     icon: Settings,
   },
 ]
